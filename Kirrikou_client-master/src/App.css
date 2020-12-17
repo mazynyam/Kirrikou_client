@@ -1,0 +1,144 @@
+
+
+#sitewrapper {
+    
+    width: 100%;
+    
+}
+
+.footer {
+    background-color: #acd523;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.butt {
+    color: lime;
+}
+
+
+#conn{
+
+color:#17293d;
+margin:auto;
+background-color: #acd523;
+border-radius: 23px;
+font-size: larger;
+font-family:Arial, Helvetica, sans-serif; 
+font-weight: bold;
+margin-top: 25px;
+}
+#rimg{
+width:700px;
+height:300px ;
+
+}
+#getimage{
+  width:700px;
+  height:300px ;
+}
+#himg{
+width:700px;
+height:300px ;
+
+
+}
+#simg{
+
+  width:300px;
+  height:300px ;
+  
+  
+}
+#timg{
+  width:300px;
+  height:300px ;
+ 
+  
+}
+#pimg{
+  width:300px;
+  height:300px ;
+  
+  
+}
+
+
+#mycarousel{
+ margin-left: 170px;
+
+}
+#prdcarousel{
+  margin-left: 0px;
+  
+}
+#feat{
+  margin-left: 170px;
+  margin-top: 50px;
+}
+#logg{
+
+border-style:none none none none;
+color:white;
+margin:auto;
+background-color: #17293d;
+float:right;
+}
+#categ{
+border-width: 3px;
+margin:auto;
+background-color: #17293d;
+border-radius: 23px;
+border-color:#acd523; 
+
+border-style:solid solid solid solid;
+}
+
+#shp{
+  border-width: 3px;
+  margin:auto;
+  background-color: #17293d;
+  border-style:solid solid solid solid;
+  border-radius: 23px;
+  border-color:#acd523; 
+  margin-top: 25px;
+}
+#ord{
+  
+  margin:auto;
+  background-color: #17293d;
+  border-style:none none none none;
+}
+
+#pic{
+  height:90px;
+  width: 150px;
+  margin:auto;
+
+
+}
+#fsearch{
+  margin:auto;
+  border-radius: 23px;
+  background-color:white; 
+  margin-left: -60px;
+ 
+  height:36px;
+  color: #acd523;
+  
+  border-color: white; 
+  cursor: pointer;
+}
+#SearchPrd{
+  margin:auto;
+  border-radius: 23px;
+  height:48px;
+  padding: 10px;
+  border-color: #17293d ;
+  
+ 
+}
+#fsrow{
+background-color:#17293d ;
+
+}
